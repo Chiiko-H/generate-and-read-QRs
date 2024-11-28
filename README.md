@@ -1,5 +1,14 @@
 # Generating and Reading QR codes
 
+It is created with Vue.js+Vite+Typescript.
+
+#### How to run locally
+
+`npm install`
+
+`npm run dev`
+
+
 ### 1. Generate a QR Code from any text.
 ![{BFB459EB-FCDB-47CA-A1FB-99BA290DDF9E}](https://github.com/user-attachments/assets/4f4a0279-dbba-4610-8848-ed907b5419fc)
 
